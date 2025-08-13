@@ -14,7 +14,7 @@ Salis empowers care seekers, providers, and communities through:
 
 ## 📄 Download the Whitepaper
 
-[Download PDF Whitepaper](https://github.com/ambercodes/salis-whitepaper/raw/main/Salis-Whitepaper.pdf))
+[Download PDF Whitepaper](https://github.com/ambercodes/salis-whitepaper/raw/main/Salis-Whitepaper.pdf)
 ---
 
 ## 📚 About This Document
